@@ -8,10 +8,10 @@ Alzheimer's disease (AD) poses a significant healthcare challenge, with an escal
 
 
 ## Model Architecture
-![Model Architecture](ConADD Architecture.png)
+![Model Architecture](ConADD_Architecture.png)
 
 ## Methodology
-![Mmethodology](images/Methodology%20Diagram_2%20-%20Copy.png)
+![Mmethodology](Methodology.png)
 
 
 ## Important Preprocessing
@@ -22,39 +22,10 @@ Alzheimer's disease (AD) poses a significant healthcare challenge, with an escal
 
 ## Requirements
 - Python 3.9.19
-- ```sh
-conda create MAF python=3.9.19
-```
 
-## Installation
-1. Clone the repository:
-    ```sh
-    git clone ..
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd Attention-Driven-CNNs-for-AD-Detection-via-MAF
-    ```
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-### Training
-To train the model, run the following command:
-```sh
-python train.py
-```
 
 ### Evaluation
 To evaluate the model, run the following command:
-```sh
-python evaluate.py
-```
-
-### GradCAM Results
 
 
 
