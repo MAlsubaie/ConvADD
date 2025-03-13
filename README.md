@@ -8,7 +8,7 @@ Alzheimer's disease (AD) poses a significant healthcare challenge, with an escal
 
 
 ## Model Architecture
-![Model Architecture](ConADD_Architecture.png)
+![Model Architecture](ConADDArchitecture.png)
 
 ## Methodology
 ![Mmethodology](Methodology.png)
